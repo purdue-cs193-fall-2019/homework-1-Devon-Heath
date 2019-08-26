@@ -39,8 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Devon's notes
 Is it really this easy??
 # Devon's Favorite parts of CS 193
--I feel less blind going into CS 180
-
--I get to learn neat tricks with programming
-
--Overall just super usefull
+- I feel less blind going into CS 180
+- I get to learn neat tricks with programming
+- Overall just super usefull
